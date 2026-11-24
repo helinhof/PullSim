@@ -8,6 +8,13 @@
 
 <p align="center"><img src="docs/window.png" width="560" alt="PullSim window"></p>
 
+| Lord Marrowgar | Deathbringer Saurfang |
+|---|---|
+| <img src="docs/marrowgar-fight.jpg" alt="Lord Marrowgar pull with the bot raid"> | <img src="docs/saurfang-fight.jpg" alt="Deathbringer Saurfang pull"> |
+
+<p align="center"><img src="docs/marrowgar-ready.jpg" width="820" alt="Raid waiting at Marrowgar's room with the PullSim panel"><br>
+<sub>The raid waiting at Marrowgar's room, with the in-game PullSim panel on the left.</sub></p>
+
 ## Download and play
 
 1. Download **PullSim.exe** from the [latest release](../../releases/latest).
