@@ -1,5 +1,3 @@
-<p align="center"><img src="docs/icon.png" width="96" alt="PullSim"></p>
-
 # PullSim
 
 **Icecrown Citadel boss practice, on repeat.** A one-click, offline World of Warcraft 3.3.5a raid simulator: you plus
