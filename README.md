@@ -19,10 +19,10 @@
 
 1. Download **PullSim.exe** from the [latest release](../../releases/latest).
 2. Put it in your **World of Warcraft 3.3.5a** folder, next to `Wow.exe`.
-3. Scroll down and choose the existing character you want to copy macros/keybinds/savedvariables from your real server - also choose raid composition here, keep 2 tanks and sort healers and dps class/specs as you want.
-4. Run it and press **Start & Play**.
+3. Open exe, scroll down and choose the existing character you want to copy macros/keybinds/savedvariables from your real server - also choose raid composition here, keep 2 tanks and sort healers and dps class/specs as you want.
+4. Press **Start & Play**.
 5. When WoW opens, log in with **PULLSIM / pullsim**, create a character of the class shown under
-   *Character & raid* (any race) and enter the world. PullSim levels it to 80, applies talents, glyphs and gear,
+   *Character & raid* (any race) and enter the world. PullSim levels it to 80, applies talents, weapon skills, glyphs and gear, goblin engineering
    and builds your raid.
 
 The **first start takes a while** (roughly 15–20 minutes, only once): PullSim downloads the server package, reads
